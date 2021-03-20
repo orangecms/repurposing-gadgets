@@ -89,7 +89,7 @@ readers.
 ![Astronaut IP camera](img/astronaut-ip-cam.jpeg){ height=85% }
 :::
 ::: {.column width="30%"}
-![smaller IP camera](img/small-wifi-ip-cam.jpeg){ height=85% }
+![little  IP camera with wires](img/little-ip-cam-with-serial.jpeg){ height=85% }
 :::
 ::::::::::::::
 
@@ -140,7 +140,7 @@ A universal root filesystem
 
 ## u-root Graphics
 
-![u-root with graphics in QEMU](img/u-root-graphics.jpeg)
+![u-root with graphics in QEMU](img/u-root-graphics.jpeg){ height=70% }
 
 ## centre
 
@@ -157,6 +157,10 @@ https://github.com/Harvey-OS/go/tree/main/cmd/centre)
 ## IP Camera Teardown
 
 ![IP camera teardown](img/ip-cam-teardown.jpeg){ height=82% }
+
+## Astronaut Teardown
+
+![astronaut head teardown](img/astronaut-head-teardown.jpeg){ height=72% }
 
 ## NVRs from inside
 
@@ -176,6 +180,26 @@ https://github.com/Harvey-OS/go/tree/main/cmd/centre)
 ![resistors added to NVR](img/nbd-uart-resistors.jpeg)
 :::
 ::::::::::::::
+
+## Serial and U-Boot
+
+![](img/nvr-u-boot.png){ height=82% }
+
+## U-Boot Shell
+
+![](img/nbd-serial-u-boot.png){ height=82% }
+
+## U-Boot TFTP
+
+![](img/nvr-tftp.png){ height=82% }
+
+## U-Boot Kernel Commandline
+
+![](img/anyka-u-boot-linux-single.png){ height=82% }
+
+## No init, just insmod
+
+![](img/anyka-linux-insmod.png){ height=82% }
 
 ## u-root on a Wireless Storage
 

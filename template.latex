@@ -420,7 +420,7 @@ $if(titlegraphic)$
 \titlegraphic{\includegraphics{$titlegraphic$}}
 $endif$
 $if(logo)$
-\logo{\includegraphics[width=2.5cm,scale=2.5]{$logo$}}
+\logo{\includegraphics[width=2cm]{$logo$}}
 $endif$
 $endif$
 
