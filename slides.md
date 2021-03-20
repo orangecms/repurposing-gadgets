@@ -144,8 +144,8 @@ A universal root filesystem
 
 ## centre
 
-- DHCP
-- SFTP
+- DHCP server
+- TFTP server
 - simple binary, written in Go
 - easy to run on your laptop
 
